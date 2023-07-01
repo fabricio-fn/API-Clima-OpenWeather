@@ -1,7 +1,6 @@
 # API-Clima-OpenWeather
-Consumindo a API de Clima OpenWeather com JavaScript
+### Consumindo a API de Clima <a href="https://openweathermap.org/" target="_blank" >OpenWeather<a/> com JavaScript
 
-API utilizada: https://openweathermap.org/
+### Ver: <a href="https://projeto-api-openweather.netlify.app/" target="_blank" >Pesquise você mesmo<a/>
 
-![Screenshot_2023-05-30_14-45-31](https://github.com/fabricio-fn/API-Clima-OpenWeather/assets/116690430/b362d09b-0520-49e5-8207-468370c34388)
-![Screenshot_2023-05-30_14-46-31](https://github.com/fabricio-fn/API-Clima-OpenWeather/assets/116690430/702a343c-8612-426b-80e2-75d68cff2dba)
+![Design sem nome](https://github.com/fabricio-fn/API-Clima-OpenWeather/assets/116690430/d9ed6a96-19a3-4c47-bf36-757076903fa7)
